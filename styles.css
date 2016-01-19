@@ -1,0 +1,52 @@
+body {
+    background-color: #338a99;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2.5em;
+    padding:10px;
+    margin: 0;
+    text-align: center;
+    text-shadow: 2px 3px rgb(51, 138, 153);
+    letter-spacing: 5px;
+    background:url("header_image.jpg");
+    background-repeat: none;
+    background-position: absolute;
+    background-size: 800px;
+}
+
+
+article {
+    background: rgba(169, 169, 169, .7);
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+footer {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.articleHeader {
+    border: 3px solid #005166;
+    padding: 5px;
+    margin: 5px 30px;
+    text-align: center;
+    font-size: 1.125em;
+    font-weight: bold;
+    background-color: gray;
+    border-radius: 10px;
+
+}
+
+.articleFooter {
+    float: right;
+    padding: 20px 0;
+    margin: 0;
+    font-style: italic;
+}
+
